@@ -1,10 +1,10 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: Michael R. Bacon
 tags:
   - nav
 navtitle: About
 templateClass: tmpl-post
 ---
 
-I am a person that writes stuff.
+Photographer
